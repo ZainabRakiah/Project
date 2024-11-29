@@ -1,0 +1,11 @@
+*.json
+node_modules/
+*.log
+logs/
+
+.cache/
+.next/
+.nuxt/
+.vite/
+.vscode/
+
